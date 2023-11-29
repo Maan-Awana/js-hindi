@@ -1,2 +1,2 @@
 # js-hindi
-A code rope javascript 
+A code repo javascript 
